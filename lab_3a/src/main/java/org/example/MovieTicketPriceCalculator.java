@@ -1,4 +1,4 @@
-package lab_3a;
+package org.example;
 
 import java.time.LocalTime;
 import java.util.Objects;
